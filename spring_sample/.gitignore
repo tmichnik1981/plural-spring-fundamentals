@@ -1,6 +1,4 @@
 
-# Created by https://www.gitignore.io/api/java,eclipse,intellij+iml
-
 ### Eclipse ###
 
 .metadata
@@ -54,10 +52,10 @@ local.properties
 .worksheet
 
 ### Eclipse Patch ###
-# Eclipse Core		
+# Eclipse Core
 .project
 
-# JDT-specific (Eclipse Java Development Tools)		
+# JDT-specific (Eclipse Java Development Tools)
 .classpath
 
 ### Intellij+iml ###
@@ -144,3 +142,4 @@ modules.xml
 hs_err_pid*
 
 # End of https://www.gitignore.io/api/java,eclipse,intellij+iml
+/target/
